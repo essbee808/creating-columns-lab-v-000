@@ -58,7 +58,7 @@ img:hover {
 }
 
 .med {
-  width: auto;
+  width: fit-content;
 }
 
 .large {
