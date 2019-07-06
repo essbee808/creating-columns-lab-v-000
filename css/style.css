@@ -59,7 +59,7 @@ img:hover {
 }
 
 .med {
-  width: 125%;
+  grid-column: 2 / 3;
 }
 
 .large {
