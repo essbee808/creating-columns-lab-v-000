@@ -49,8 +49,8 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
   display: grid;
-  grid-row-gap: 10px;
-  grid-column-gap: 10px;
+  grid-gap: 10px;
+
 }
 
 .small {
