@@ -51,6 +51,8 @@ img:hover {
   display: inline-grid;
 }
 
+
+/* create your tile classes! we recommend .small .med .large */
 .small {
   width: 33.33%;
 }
@@ -62,4 +64,3 @@ img:hover {
 .large {
 
 }
-/* create your tile classes! we recommend .small .med .large */
